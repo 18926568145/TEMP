@@ -12,4 +12,8 @@ class B extends A
 	{
 		echo "hello";
 	}
+	fucntion HelloName()
+	{
+		echo "dd";
+	}
 }
