@@ -17,3 +17,8 @@ class B extends A
 		echo "dd";
 	}
 }
+
+class C extends A
+{
+	
+}
