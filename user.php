@@ -24,4 +24,4 @@ class C extends A
 }
 
 $user = new User();
-
+HI
