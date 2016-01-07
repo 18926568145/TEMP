@@ -5,3 +5,11 @@ class A
 		echo "Master Brach";
 	}
 }
+
+class B extends A
+{
+	function printName()
+	{
+		echo "hello";
+	}
+}
